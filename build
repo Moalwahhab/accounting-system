@@ -1,0 +1,7 @@
+إنشاء مجلد المشروع
+mkdir accounting-system
+cd accounting-system
+
+تهيئة Git
+git init
+git remote add origin https://github.com/YOUR_USERNAME/accounting-system.git
